@@ -1,6 +1,6 @@
 ThemeEnabled = true
 Theme = {
-  Name = "DomainX AMOLED theme - imaginativess#0001",
+  Name = "AMOLED theme - imaginativess#0001",
   PrimaryColor = Color3.fromRGB(0, 0, 0),
   SecondaryColor = Color3.fromRGB(13, 13, 13),
   Font = "Gotham",
